@@ -1,7 +1,7 @@
 # 14x5-ortholinear-keyboard
 **note:** This is an unfinished project and should be treated as one. 
 
-![keyboard_front](https://github.com/0x4Ceonard/14x5-ortholinear-keyboard/assets/148872468/f7164838-820d-46da-a7cd-c4cb6317bc20)
+![keyboard_front](https://github.com/0x4Ceonard/14x5-ortholinear-keyboard/assets/148872468/43862ee8-1a2f-4b9b-8d4d-9618fcd36a98)
 
 ---
 
