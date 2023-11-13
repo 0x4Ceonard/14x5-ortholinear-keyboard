@@ -23,7 +23,7 @@ The board features pads to mount 8 0603 status led´s, however i havent implemen
 
 ![keyboard](https://github.com/0x4Ceonard/14x5-ortholinear-keyboard/assets/148872468/03aba2f3-897f-421a-9f59-1fb3d0e8a252)
 
-I intended to mount the PCB to a 3d printed housing via m2 screws. That´s what the six holes are for, however the housing is still a work in progress...
+I intended to mount the PCB to a 3d printed housing via m2 screws. That´s what the seven holes are for, however the housing is still a work in progress...
 
 ---
 
