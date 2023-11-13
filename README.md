@@ -1,10 +1,11 @@
 # 14x5-ortholinear-keyboard
----
+**note:** This is an unfinished project and should be treated as one. 
+
 ![keyboard_front](https://github.com/0x4Ceonard/14x5-ortholinear-keyboard/assets/148872468/f7164838-820d-46da-a7cd-c4cb6317bc20)
 
 ---
 
-This is my first attempt at a 14x5 ortholinear keyboard. Its meant to use Kalih Choc v1 switches but can be easily adjustet to fit allmost any switch you want.
+This is my first attempt at a 14x5 ortholinear keyboard. It uses Kalih Choc v1 switches but could be easily adjustet to fit almost any switch you want.
 The board is built around the WaveShare RP2040-Zero microcontroller and meant to run the open source keyboard firmware KMK. 
 
 
